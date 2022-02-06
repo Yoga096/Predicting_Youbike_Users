@@ -4,4 +4,4 @@ kaggle: https://www.kaggle.com/c/titanic
 預測鐵達尼號乘客生存情形
 
 ## 簡報
- ![]https://i.imgur.com/hszdT8g.png[]
+ ![](https://i.imgur.com/hszdT8g.png)
