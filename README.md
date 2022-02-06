@@ -7,7 +7,7 @@
 ![](https://imgur.com/pVAjhJz)
 ![](https://imgur.com/XwIy5fj)
 ![](https://imgur.com/XN12itq)
-![]https://imgur.com/OfysMmp()
+![](https://imgur.com/OfysMmp)
 ![](https://imgur.com/e7R6J95)
 ![](https://imgur.com/Eb0C8gx)
 ![](https://imgur.com/AETwUAJ)
