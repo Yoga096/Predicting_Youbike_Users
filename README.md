@@ -1,9 +1,9 @@
 # 預測台大校內Youbike 2.0使用情形
 
-## 陳又加﹐張寬新﹐蔡淳如﹐吳昕晏﹐錢紫翎
-## 指導教授：盧信銘
-## 課程：統計學習與深度學習
-
+陳又加﹐張寬新﹐蔡淳如﹐吳昕晏﹐錢紫翎  
+指導教授：盧信銘  
+課程：統計學習與深度學習  
+  
  ![](https://i.imgur.com/pkaEPjl.jpg)
  ![](https://i.imgur.com/aoZmb3o.jpg)
  ![](https://i.imgur.com/wuchaBy.jpg)
