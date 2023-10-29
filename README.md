@@ -3,6 +3,9 @@
 陳又加﹐張寬新﹐蔡淳如﹐吳昕晏﹐錢紫翎  
 指導教授：盧信銘  
 課程：統計學習與深度學習  
+
+![image](https://github.com/Yoga096/Predicting_Youbike_Users/assets/46023776/89557197-003a-4947-abd1-d6e9e2e3e8dc)
+
   
  ![](https://i.imgur.com/pkaEPjl.jpg)
  ![](https://i.imgur.com/aoZmb3o.jpg)
