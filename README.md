@@ -1,5 +1,5 @@
 # 預測台大校內Youbike 2.0使用情形
-・日本語の説明は日本語説明_シェアサイクル利用状況予測.pdf
+・日本語の説明は![日本語説明_シェアサイクル利用状況予測.pdf](https://github.com/Yoga096/Predicting_Youbike_Users/blob/main/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%AA%AC%E6%98%8E_%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%88%A9%E7%94%A8%E7%8A%B6%E6%B3%81%E4%BA%88%E6%B8%AC.pdf)を参考してください
 
 陳又加﹐張寬新﹐蔡淳如﹐吳昕晏﹐錢紫翎  
 指導教授：盧信銘  
